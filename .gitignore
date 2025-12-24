@@ -1,0 +1,9 @@
+*.pyc
+/src-initial-1-dont-use/checkpoints
+*.json
+*.pth
+*.png
+*.mp4
+*.zip
+/src-initial-2-dont-use/runs/sb3_boxing/tensorboard
+*.0
