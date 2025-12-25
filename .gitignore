@@ -7,3 +7,4 @@
 *.zip
 /src-initial-2-dont-use/runs/sb3_boxing/tensorboard
 *.0
+/venv
